@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Alec Knutson
 
-You can use the [editor on GitHub](https://github.com/AlecKnutson/MyWork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website! Here I host my current works and projects. There may be object oriented code, statistical software anaylsis using programs like R and Stata, and some Research Projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+Currently, I am enrolled at the University of Texas at Dallas in the MS Economics Program.  In the spring of 2020, I graduated from UTD with a BS in Mathematics with a specalization in Statistics and an Economics minor.  Beyond just school, I enjoy playing guitar and strategizing over board games.
 
-### Markdown
+I am currently seeking out an Internship for the Summer of 2021 in Data Anaylitics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Resume
+[Alec's Current Resume](https://github.com/AlecKnutson/MyWork/files/6184809/Alec.s.Resume.2021.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlecKnutson/MyWork/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Projects
+Soon to come!
