@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: Alec Knutson Current Project
+title: Alec Knutson;s Current Projects
 description:
+github:
+  is_project_page: false
