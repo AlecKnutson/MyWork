@@ -12,8 +12,8 @@ I am currently seeking out an Internship for the Summer of 2021 in Data Anayliti
 
 
 ## Projects
-Soon to come!
+More to come!
 
-Below you will find a user interface from which you can querry the data within.  It is a simple model of a University that keeps track of staff, students, courses, and capital.  There is also a schema showing the relations, variables, keys that I chose.
+Below you will find a scheme for a database that I designed, implemented, and ingested data to in Postgres.  It is designed for making administrative work for a University simpler.
 
 <img src="https://user-images.githubusercontent.com/42585340/115778967-fe245c00-a37c-11eb-9bfd-28e2246232da.PNG" alt="drawing" width="600"/>
