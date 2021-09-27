@@ -8,8 +8,8 @@ Currently, I am enrolled at the University of Texas at Dallas in the MS Economic
 I am currently seeking out a full time position as a Data Scientist in Janaury.
 
 ## Resume
-Check out my resume [here](Alec's Resume 2021 (Sept) - DS.pdf)!
-
+Check out my resume [here](Alec's Resume 2021 (Sept) - DS.pdf)! \
+You can email me at: aknutsonwork@gmail.com
 
 ## Projects
 More to come!
