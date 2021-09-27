@@ -8,7 +8,7 @@ Currently, I am enrolled at the University of Texas at Dallas in the MS Economic
 I am currently seeking out an Internship for the Summer of 2021 in Data Anaylitics.
 
 ## Resume
-[Alec's Current Resume](Alec's Resume 2021 (Sept) - DS.pdf)
+Check out my resume [here](Alec's Resume 2021 (Sept) - DS.pdf)!
 
 
 ## Projects
