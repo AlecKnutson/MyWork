@@ -12,11 +12,13 @@ You can email me at: aknutsonwork@gmail.com
 ## Projects
 More to come!
 
+### Structural Modeling of the Abstract concept of Safety/Security - December 2021
+I am currently working on a project where I am creating a full structural model in order to investgate the latent variable of safety and security that people feel as a result of either monetary well being or a country's political climate.  More to come on this!
+
 ### Effects of Active Service on Veterna's Wages - May 2021
 This project resulted in a final paper written and in LaTex, which was my first experience using the program as my main text editor.  The below you will find the abstract of the [full paper](Project Paper (MultiVar Reg Analysis Spring 2021).pdf), which is an investigation into the effects of active service of veteran's wages when returning to the civilian workforce.  The analysis was primarily done in Stata16 and the data was sourced from ICPSR.
 
 "Studies on veterans in the civilian market is not a new subject. However, many advances have been made in both politics and society in order to aid in veterans’ reintroduction into society. This paper reviews previous literature in order to identify pitfalls in the analysis of veterans’ and their wages. Being aware of these pitfalls, a strategy is formulated and then executed in order to analyze the effect that active military service has on service member’s financial well-being once they are reintegrated back into society."
-
 
 ### The Design and Implmentation of a Relational Database - April 2021
 Below you will find a small excerpt from my [final paper](alecknutson_finalproject (Info Managmenet Spring 2021).pdf) as well as a scheme for a database that I designed, implemented, and ingested data to in Postgres.
