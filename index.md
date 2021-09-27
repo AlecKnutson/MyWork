@@ -16,7 +16,7 @@ More to come!
 
 
 ###April 2021
-Below you will find a small excerpt from my final paper (full paper linked [here](alecknutson_finalproject (Info Managment Spring 2021.pdf))) as well as a scheme for a database that I designed, implemented, and ingested data to in Postgres.
+Below you will find a small excerpt from my [final paper](alecknutson_finalproject (Info Managment Spring 2021.pdf)) as well as a scheme for a database that I designed, implemented, and ingested data to in Postgres.
 
 "I have chosen to create a University database for my final project.  It consists of eleven relations in order to track University required information.  In general, this information includes students, classes, staff, and capital that the university owns.  In order to keep everything organized, I used a relational database model when designing the schema, shown below.  This paper is broken up into four parts.  First, I will discuss the database design.  Second, I will briefly mention the data that is housed in each relation.  Next, I will discuss the front-end design that I was able to implement.  Lastly, we will discuss how the limitations of this database and how this project could be improved upon in the future.
 
