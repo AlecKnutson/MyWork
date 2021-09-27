@@ -1,5 +1,3 @@
-# Alec Knutson
-
 Welcome to my website! Here I host my current works and projects. There may be object oriented code, statistical software anaylsis using programs like R and Stata, and some Research Projects.
 
 ### About me
