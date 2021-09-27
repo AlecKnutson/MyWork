@@ -8,12 +8,16 @@ Currently, I am enrolled at the University of Texas at Dallas in the MS Economic
 I am currently seeking out an Internship for the Summer of 2021 in Data Anaylitics.
 
 ## Resume
-[Alec's Current Resume](Alec.s.Resume.2021.Sept.pdf)
+[Alec's Current Resume](Alec's Resume 2021 (Sept) - DS.pdf)
 
 
 ## Projects
 More to come!
 
-Below you will find a scheme for a database that I designed, implemented, and ingested data to in Postgres.  It is designed for making administrative work for a University simpler.
 
-<img src="https://user-images.githubusercontent.com/42585340/115778967-fe245c00-a37c-11eb-9bfd-28e2246232da.PNG" alt="drawing" width="600"/>
+###April 2021
+Below you will find a small excerpt from my final paper (full paper linked [here](alecknutson_finalproject (Info Managment Spring 2021.pdf))) as well as a scheme for a database that I designed, implemented, and ingested data to in Postgres.
+
+"I have chosen to create a University database for my final project.  It consists of eleven relations in order to track University required information.  In general, this information includes students, classes, staff, and capital that the university owns.  In order to keep everything organized, I used a relational database model when designing the schema, shown below.  This paper is broken up into four parts.  First, I will discuss the database design.  Second, I will briefly mention the data that is housed in each relation.  Next, I will discuss the front-end design that I was able to implement.  Lastly, we will discuss how the limitations of this database and how this project could be improved upon in the future.
+
+<img src="v6.PNG" alt="drawing" width="600"/>
